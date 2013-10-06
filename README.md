@@ -1,5 +1,5 @@
-**SteamBot** is a bot written in C# for the purpose of interacting with Steam Chat and Steam Trade.  As of right now, about 8 contributors have all added to the bot.  The bot is publicly available under the MIT License. Check out [LICENSE] for more details.
 **SteamBot** 是一个用C#写的进行steam聊天及交易互动的机器人.  项目源地址为https://github.com/Jessecar96/SteamBot.
+
 **不用从github直接下载zip文件!**
 
 请使用git下载项目. *下载zip是没用的* 因为项目是需要其他模块的,zip文件不包括这些模块.
