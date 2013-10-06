@@ -23,7 +23,7 @@
 
 你必须修改机器人才能让机器人按你的想法哦南歌子. 你可以编辑文件 `SimpleUserHandler.cs` 或者 `AdminUserHandler.cs` 或者创建自己的 `UserHandler`文件. 查看wiki上的编辑指南 [configuration guide] . This guide covers configuring a basic bot as well as creating a custom user handler.
 
-## 机器人关了
+## 机器人管理
 
 当你运行机器人的时候,你会发现有时你需要做一下基本的操作比如关闭或者重启机器人. 控制台允许你输入一下命令来让你做这些. 查看 [usage guide] 获取更多信息.
 
