@@ -41,8 +41,8 @@
 Please read [CONTRIBUTING.md].
 
 
-   [installation guide]: https://github.com/Jessecar96/SteamBot/wiki/Installation-Guide
-   [CONTRIBUTING.md]: https://github.com/Jessecar96/SteamBot/blob/master/CONTRIBUTING.md
-   [LICENSE]: https://github.com/Jessecar96/SteamBot/blob/master/LICENSE
-   [configuration guide]: https://github.com/Jessecar96/SteamBot/wiki/Configuration-Guide
-   [usage guide]: https://github.com/Jessecar96/SteamBot/wiki/Usage-Guide
+   [installation guide]: https://github.com/baidusteambot/SteamBot/wiki/Installation-Guide
+   [CONTRIBUTING.md]: https://github.com/baidusteambot/SteamBot/blob/master/CONTRIBUTING.md
+   [LICENSE]: https://github.com/baidusteambot/SteamBot/blob/master/LICENSE
+   [configuration guide]: https://github.com/baidusteambot/SteamBot/wiki/Configuration-Guide
+   [usage guide]: https://github.com/baidusteambot/SteamBot/wiki/Usage-Guide
